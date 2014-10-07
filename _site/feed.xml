@@ -1,14 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jingyu Liu</title>
+    <title>JingYu Liu</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://ljyhm.github.io/</link>
     <atom:link href="http://ljyhm.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Oct 2014 21:04:16 -0700</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2014 21:04:16 -0700</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2014 05:42:48 -0700</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2014 05:42:48 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Resume</title>
+        <description>&lt;p&gt;Address: Room 818, No. 15 Zhongguancun Beiyitiao, Beijing, China, 100190&lt;/p&gt;
+
+&lt;h3 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gender:	Female&lt;/li&gt;
+  &lt;li&gt;Age:		25&lt;/li&gt;
+  &lt;li&gt;Personality:	Creative, Cooperative, Skeptical, Dedicated&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;educational-background&quot;&gt;Educational Background&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;2010.09 ~ 	&lt;/li&gt;
+  &lt;li&gt;Institute of Policy and Management, Chinese Academy of Sciences,  PHD candidate Research Area: Financial CGE Model、Monetary and Fiscal Policies、Energy Economics.	&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Supervisor: Prof. Ying Fan		&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2012.9 ~ 2013.2 	&lt;/li&gt;
+  &lt;li&gt;Chung Yuan Christian University, Taiwan Cooperative Research Research Area: Financial CGE Models and Applications.	&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sponsoring professor: Prof. Shih-Mo Lin&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2006.9 ~ 2010.7 	&lt;/li&gt;
+  &lt;li&gt;School of Mathematical Sciences, Peking University Bachelor of Applied Mathematics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;academic-activities&quot;&gt;Academic Activities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2014.6 	&lt;/li&gt;
+  &lt;li&gt;2014 International Energy Workshop [Conference]&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Report on “Climate Policies/Climate Agreement” Session&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2013.2 ~ 2013.12 	&lt;/li&gt;
+  &lt;li&gt;Path of Chinese Emission Reduction [Project]&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Constructing Chinese 30 regional input output table&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2011.2 ~ 2013.12	&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Benefit Distribution of Oil Companies, Local Government and Central Government [Project]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2013.6 	&lt;/li&gt;
+  &lt;li&gt;16th Annual Conference on Global Economic Analysis, GTAP [Conference]&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Report on “Energy and Environmental Policy Simulation” Session&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2012.8 	&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;International Conference on CGE Modeling 2012 [Conference]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2010.2 ~ 2011.2 	&lt;/li&gt;
+  &lt;li&gt;Global Oil Demand Forecasting [Project]&lt;/li&gt;
+  &lt;li&gt;Responsible for China’s oil demand forecasting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;published-papers&quot;&gt;Published Papers&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jing-Yu Liu, Shih-Mo Lin, Ying Fan, Yan Xia. &lt;a href=&quot;assets/media/1.pdf&quot;&gt;&lt;u&gt;Oil Price Shocks and Monetary Policy Responses in China: A Financial CGE Model Analysis&lt;/u&gt;&lt;/a&gt;. The World Economy. Under Review &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jing-Yu Liu, Ying Fan, Shih-Mo Lin, Yan Xia. &lt;a href=&quot;assets/media/2.pdf&quot;&gt;&lt;u&gt;Short, Medium and Long Effects of the Chinese 'Green Credit' Policy Based on a Financial CGE Model&lt;/u&gt;&lt;/a&gt;. 2014 International Energy Workshop[C]. 2014&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shih-Mo Lin, Jing-Yu Liu, Jin-Xu Lin, Jun-Chiang Feng, Yan Xia and Pei-Ling Wen. Transmission Paths of Oil Shocks in Taiwan and Mainland China – A Financial Social Accounting Matrix Analysis. 21st International Input-Output Conference[C]. 2013&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jing-Yu Liu, Yan Xia, Shih-Mo Lin, Jie Wu, Ying Fan. Assessment of the Effect of the Chinese ‘Green Credit’ Policy Based on a Financial CGE Model. Chinese Management Sciences [J]. Under Review&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;working-papers&quot;&gt;Working Papers&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Jing-Yu Liu, Ying Fan, Yan Xia. Macro-economic Impacts Assessment of Exchange Rate Appreciation in China Based on a Financial CGE Model.&lt;/li&gt;
+  &lt;li&gt;Jing-Yu Liu, Ying Fan, Yan Xia. Carbon tax, Exchange Rate and Balance of Payment: a Financial CGE Model Analysis.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;certificates-and-skills&quot;&gt;Certificates and Skills&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Computer: 	High-level Skills of GAMS Programming，Middle-level Skills of GEMPACK and Matlab Programming.&lt;/li&gt;
+  &lt;li&gt;Language:	TOEFL 98.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://ljyhm.github.io/2014/10/07/Resume.html</link>
+        <guid isPermaLink="true">http://ljyhm.github.io/2014/10/07/Resume.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
