@@ -6,65 +6,72 @@
 </description>
     <link>http://ljyhm.github.io/</link>
     <atom:link href="http://ljyhm.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Oct 2014 05:51:40 -0700</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2014 05:51:40 -0700</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2014 11:17:59 -0700</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2014 11:17:59 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Resume</title>
-        <description>&lt;p&gt;Address: Room 818, No. 15 Zhongguancun Beiyitiao, Beijing, China, 100190&lt;/p&gt;
-
-&lt;h3 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gender:	Female&lt;/li&gt;
   &lt;li&gt;Age:		25&lt;/li&gt;
   &lt;li&gt;Personality:	Creative, Cooperative, Skeptical, Dedicated&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;educational-background&quot;&gt;Educational Background&lt;/h3&gt;
+
+&lt;h5 id=&quot;section&quot;&gt;2010.09&lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;2010.09 ~ 	&lt;/li&gt;
-  &lt;li&gt;Institute of Policy and Management, Chinese Academy of Sciences,  PHD candidate Research Area: Financial CGE Model、Monetary and Fiscal Policies、Energy Economics.	&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Supervisor: Prof. Ying Fan		&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2012.9 ~ 2013.2 	&lt;/li&gt;
-  &lt;li&gt;Chung Yuan Christian University, Taiwan Cooperative Research Research Area: Financial CGE Models and Applications.	&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sponsoring professor: Prof. Shih-Mo Lin&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2006.9 ~ 2010.7 	&lt;/li&gt;
-  &lt;li&gt;School of Mathematical Sciences, Peking University Bachelor of Applied Mathematics.&lt;/li&gt;
+  &lt;li&gt;Institute of Policy and Management, Chinese Academy of Sciences,  PHD candidate.&lt;/li&gt;
+  &lt;li&gt;Research Area: Financial CGE Model、Monetary and Fiscal Policies、Energy Economics.	&lt;/li&gt;
+  &lt;li&gt;Supervisor: Prof. Ying Fan		&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-1&quot;&gt;2012.9 - 2013.2&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chung Yuan Christian University, Taiwan, Cooperative Research.&lt;/li&gt;
+  &lt;li&gt;Research Area: Financial CGE Models and Applications.	&lt;/li&gt;
+  &lt;li&gt;Sponsoring professor: Prof. Shih-Mo Lin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-2&quot;&gt;2006.9 - 2010.7&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;School of Mathematical Sciences, Peking University, Bachelor of Applied Mathematics.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;academic-activities&quot;&gt;Academic Activities&lt;/h3&gt;
 
+&lt;h5 id=&quot;section-3&quot;&gt;2014.6&lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;2014.6 	&lt;/li&gt;
   &lt;li&gt;2014 International Energy Workshop [Conference]&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Report on “Climate Policies/Climate Agreement” Session&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2013.2 ~ 2013.12 	&lt;/li&gt;
+  &lt;li&gt;Report on “Climate Policies/Climate Agreement” Session&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-4&quot;&gt;2013.2 - 2013.12&lt;/h5&gt;
+&lt;ul&gt;
   &lt;li&gt;Path of Chinese Emission Reduction [Project]&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Constructing Chinese 30 regional input output table&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2011.2 ~ 2013.12	&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Benefit Distribution of Oil Companies, Local Government and Central Government [Project]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2013.6 	&lt;/li&gt;
+  &lt;li&gt;Constructing Chinese 30 regional input output table&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-5&quot;&gt;2011.2 - 2013.12&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Benefit Distribution of Oil Companies, Local Government and Central Government [Project]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-6&quot;&gt;2013.6&lt;/h5&gt;
+&lt;ul&gt;
   &lt;li&gt;16th Annual Conference on Global Economic Analysis, GTAP [Conference]&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Report on “Energy and Environmental Policy Simulation” Session&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2012.8 	&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;International Conference on CGE Modeling 2012 [Conference]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2010.2 ~ 2011.2 	&lt;/li&gt;
+  &lt;li&gt;Report on “Energy and Environmental Policy Simulation” Session&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-7&quot;&gt;2012.8&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;International Conference on CGE Modeling 2012 [Conference]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-8&quot;&gt;2010.2 - 2011.2&lt;/h5&gt;
+&lt;ul&gt;
   &lt;li&gt;Global Oil Demand Forecasting [Project]&lt;/li&gt;
   &lt;li&gt;Responsible for China’s oil demand forecasting&lt;/li&gt;
 &lt;/ul&gt;
@@ -100,6 +107,30 @@
         <pubDate>Tue, 07 Oct 2014 00:00:00 -0700</pubDate>
         <link>http://ljyhm.github.io/2014/10/07/Resume.html</link>
         <guid isPermaLink="true">http://ljyhm.github.io/2014/10/07/Resume.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Personal Statement</title>
+        <description>&lt;p&gt;Recently I have realized that I have two competitive qualities as a ‘modeler’.&lt;/p&gt;
+
+&lt;p&gt;First, I am really interested in modelling real problems. &lt;/p&gt;
+
+&lt;p&gt;I love learning to use software. I love to figure out how they work and use them to accomplish tasks. I love programming and debugging. I enjoy finding errors, correcting things and finally make codes working. I think the progress gives me fulfillment. I love economic theories.  The theory of CGE models introduces frameworks of the whole economy and allows modifications for different problems. When I am modelling, I am interpreting how the economy works in my mind—-borrowing from classic theories of course. It helps me understand questions and doubts in life better and also provide an opportunity to talk to the world what your ideas are. I believe that economists are doing the greatest job in the world because they get paid to do their interest.
+For some time I do not like use the results to explain problems, because the results are not good and hard to explain. And it feels like cheating. But as I understand the model better, I realize that mathematics does not lie. Results that you get depend on what your models are and what parameters you are using. If you know well where the results are coming from, you can easily explain them. It does not matter if they are good or bad. They are what they are. All you have to do is to find more suitable theories and more accurate parameters.&lt;/p&gt;
+
+&lt;p&gt;Second, I am actually good at modelling.&lt;/p&gt;
+
+&lt;p&gt;I got my applied mathematics bachelor degree in Peking University, the best university in China to study maths. Under guidance of many masters, I have trained my logical thinking for a long time. I believe logical thinking helps when I am programming, learning economic theories and analyze and solving problems. Now if I want to do a medium change to my codes to adapt new problems. I can do it within one week. &lt;/p&gt;
+
+&lt;p&gt;Also, I think I am good at seizing the key. When you are facing an interesting question, you cannot model all its influence factors. But there are some major factors that you can and have to seize. I believe that I am able to find them.&lt;/p&gt;
+
+&lt;p&gt;Based on the above two qualities, I decide to take ‘modelling’ as my lifetime career. I think it is a way to maximize human benefits.  &lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://ljyhm.github.io/2014/10/07/Personal-Statement.html</link>
+        <guid isPermaLink="true">http://ljyhm.github.io/2014/10/07/Personal-Statement.html</guid>
         
         
       </item>
