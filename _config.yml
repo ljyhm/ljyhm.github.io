@@ -8,7 +8,7 @@ highlighter: true
 markdown: kramdown
 
 # Site settings
-title: JingYu Liu
+title: Jing-Yu Liu
 email: ljyhm88@gmail.com
 
 defaults:
@@ -16,11 +16,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: JingYu Liu
+      title: Jing-Yu Liu
 
 description: Personal Website by Jingyu Liu.
 author:
-  name: JingYu Liu
+  name: Jing-Yu Liu
   email: ljyhm88@gmail.com
   bio: PHD candidate
 

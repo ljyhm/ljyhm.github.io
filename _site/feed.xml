@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JingYu Liu</title>
+    <title>Jing-Yu Liu</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://ljyhm.github.io/</link>
     <atom:link href="http://ljyhm.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Oct 2014 11:17:59 -0700</pubDate>
-    <lastBuildDate>Sat, 11 Oct 2014 11:17:59 -0700</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2015 17:23:18 -0800</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2015 17:23:18 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -15,7 +15,7 @@
         <description>&lt;h3 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Age:		25&lt;/li&gt;
+  &lt;li&gt;Age:		26&lt;/li&gt;
   &lt;li&gt;Personality:	Creative, Cooperative, Skeptical, Dedicated&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -38,39 +38,46 @@
 &lt;h5 id=&quot;section-2&quot;&gt;2006.9 - 2010.7&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;School of Mathematical Sciences, Peking University, Bachelor of Applied Mathematics.&lt;/li&gt;
+  &lt;li&gt;Outstanding Graduates of SMS.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;academic-activities&quot;&gt;Academic Activities&lt;/h3&gt;
 
-&lt;h5 id=&quot;section-3&quot;&gt;2014.6&lt;/h5&gt;
+&lt;h5 id=&quot;section-3&quot;&gt;2014.9&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;4th International Association of Energy Economics Asian Conference [Conference]&lt;/li&gt;
+  &lt;li&gt;Report on “Energy Modelling Skills” Session&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;section-4&quot;&gt;2014.6&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;2014 International Energy Workshop [Conference]&lt;/li&gt;
   &lt;li&gt;Report on “Climate Policies/Climate Agreement” Session&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;section-4&quot;&gt;2013.2 - 2013.12&lt;/h5&gt;
+&lt;h5 id=&quot;section-5&quot;&gt;2013.2 - 2013.12&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;Path of Chinese Emission Reduction [Project]&lt;/li&gt;
   &lt;li&gt;Constructing Chinese 30 regional input output table&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;section-5&quot;&gt;2011.2 - 2013.12&lt;/h5&gt;
+&lt;h5 id=&quot;section-6&quot;&gt;2011.2 - 2013.12&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;Benefit Distribution of Oil Companies, Local Government and Central Government [Project]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;section-6&quot;&gt;2013.6&lt;/h5&gt;
+&lt;h5 id=&quot;section-7&quot;&gt;2013.6&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;16th Annual Conference on Global Economic Analysis, GTAP [Conference]&lt;/li&gt;
   &lt;li&gt;Report on “Energy and Environmental Policy Simulation” Session&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;section-7&quot;&gt;2012.8&lt;/h5&gt;
+&lt;h5 id=&quot;section-8&quot;&gt;2012.8&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;International Conference on CGE Modeling 2012 [Conference]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;section-8&quot;&gt;2010.2 - 2011.2&lt;/h5&gt;
+&lt;h5 id=&quot;section-9&quot;&gt;2010.2 - 2011.2&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;Global Oil Demand Forecasting [Project]&lt;/li&gt;
   &lt;li&gt;Responsible for China’s oil demand forecasting&lt;/li&gt;
@@ -79,23 +86,26 @@
 &lt;h3 id=&quot;published-papers&quot;&gt;Published Papers&lt;/h3&gt;
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Jing-Yu Liu, Shih-Mo Lin, Ying Fan, Yan Xia. &lt;a href=&quot;assets/media/1.pdf&quot;&gt;&lt;u&gt;Oil Price Shocks and Monetary Policy Responses in China: A Financial CGE Model Analysis&lt;/u&gt;&lt;/a&gt;. The World Economy. Under Review &lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;, Yan Xia, Shih-Mo Lin, Jie Wu, Ying Fan. Assessment of the Effect of the Chinese ‘Green Credit’ Policy Based on a Financial CGE Model. Chinese Management Sciences [J]. Accepted&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Jing-Yu Liu, Ying Fan, Shih-Mo Lin, Yan Xia. &lt;a href=&quot;assets/media/2.pdf&quot;&gt;&lt;u&gt;Short, Medium and Long Effects of the Chinese 'Green Credit' Policy Based on a Financial CGE Model&lt;/u&gt;&lt;/a&gt;. 2014 International Energy Workshop[C]. 2014&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;, Shih-Mo Lin, Ying Fan, Yan Xia. &lt;a href=&quot;assets/media/1.pdf&quot;&gt;&lt;u&gt;Oil Price Shocks and Monetary Policy Responses in China: A Financial CGE Model Analysis&lt;/u&gt;&lt;/a&gt;. Economic Modelling [J]. Under Review&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Shih-Mo Lin, Jing-Yu Liu, Jin-Xu Lin, Jun-Chiang Feng, Yan Xia and Pei-Ling Wen. Transmission Paths of Oil Shocks in Taiwan and Mainland China – A Financial Social Accounting Matrix Analysis. 21st International Input-Output Conference[C]. 2013&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;, Ying Fan, Shih-Mo Lin, Yan Xia. Short, &lt;a href=&quot;assets/media/2.pdf&quot;&gt;&lt;u&gt;Medium and Long Effects of the Chinese 'Green Credit' Policy towards Energy-intensive Industries Based on a Financial CGE Model&lt;/u&gt;&lt;/a&gt;. Energy Policy [J]. Under Review&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Jing-Yu Liu, Yan Xia, Shih-Mo Lin, Jie Wu, Ying Fan. Assessment of the Effect of the Chinese ‘Green Credit’ Policy Based on a Financial CGE Model. Chinese Management Sciences [J]. Under Review&lt;/p&gt;
+    &lt;p&gt;Shih-Mo Lin, &lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;, Jin-Xu Lin, Jun-Chiang Feng, Yan Xia and Pei-Ling Wen. Transmission Paths of Oil Shocks in Taiwan and Mainland China – A Financial Social Accounting Matrix Analysis. 21st International Input-Output Conference[C]. 2013&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ying Fan, Yan Xia, Jie Wu, &lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;. Low carbon strategy policy recommends based on abatement cost curves. Policy Report. 2014&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;working-papers&quot;&gt;Working Papers&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;Jing-Yu Liu, Ying Fan, Yan Xia. Macro-economic Impacts Assessment of Exchange Rate Appreciation in China Based on a Financial CGE Model.&lt;/li&gt;
-  &lt;li&gt;Jing-Yu Liu, Ying Fan, Yan Xia. Carbon tax, Exchange Rate and Balance of Payment: a Financial CGE Model Analysis.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;, Ying Fan, Yan Xia. Design a carbon tax policy under RMB appreciation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jing-Yu Liu&lt;/strong&gt;, Ying Fan, Yan Xia. The role of exchange rate in carbon tax and border adjustment effects. &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;certificates-and-skills&quot;&gt;Certificates and Skills&lt;/h3&gt;
@@ -104,33 +114,9 @@
   &lt;li&gt;Language:	TOEFL 98.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 07 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://ljyhm.github.io/2014/10/07/Resume.html</link>
-        <guid isPermaLink="true">http://ljyhm.github.io/2014/10/07/Resume.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Personal Statement</title>
-        <description>&lt;p&gt;Recently I have realized that I have two competitive qualities as a ‘modeler’.&lt;/p&gt;
-
-&lt;p&gt;First, I am really interested in modelling real problems. &lt;/p&gt;
-
-&lt;p&gt;I love learning to use software. I love to figure out how they work and use them to accomplish tasks. I love programming and debugging. I enjoy finding errors, correcting things and finally make codes working. I think the progress gives me fulfillment. I love economic theories.  The theory of CGE models introduces frameworks of the whole economy and allows modifications for different problems. When I am modelling, I am interpreting how the economy works in my mind—-borrowing from classic theories of course. It helps me understand questions and doubts in life better and also provide an opportunity to talk to the world what your ideas are. I believe that economists are doing the greatest job in the world because they get paid to do their interest.
-For some time I do not like use the results to explain problems, because the results are not good and hard to explain. And it feels like cheating. But as I understand the model better, I realize that mathematics does not lie. Results that you get depend on what your models are and what parameters you are using. If you know well where the results are coming from, you can easily explain them. It does not matter if they are good or bad. They are what they are. All you have to do is to find more suitable theories and more accurate parameters.&lt;/p&gt;
-
-&lt;p&gt;Second, I am actually good at modelling.&lt;/p&gt;
-
-&lt;p&gt;I got my applied mathematics bachelor degree in Peking University, the best university in China to study maths. Under guidance of many masters, I have trained my logical thinking for a long time. I believe logical thinking helps when I am programming, learning economic theories and analyze and solving problems. Now if I want to do a medium change to my codes to adapt new problems. I can do it within one week. &lt;/p&gt;
-
-&lt;p&gt;Also, I think I am good at seizing the key. When you are facing an interesting question, you cannot model all its influence factors. But there are some major factors that you can and have to seize. I believe that I am able to find them.&lt;/p&gt;
-
-&lt;p&gt;Based on the above two qualities, I decide to take ‘modelling’ as my lifetime career. I think it is a way to maximize human benefits.  &lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://ljyhm.github.io/2014/10/07/Personal-Statement.html</link>
-        <guid isPermaLink="true">http://ljyhm.github.io/2014/10/07/Personal-Statement.html</guid>
+        <pubDate>Sat, 03 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ljyhm.github.io/2015/01/03/Resume.html</link>
+        <guid isPermaLink="true">http://ljyhm.github.io/2015/01/03/Resume.html</guid>
         
         
       </item>

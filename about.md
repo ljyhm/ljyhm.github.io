@@ -1,7 +1,6 @@
 
-Jingyu Liu
+Jing-Yu Liu
 =====
-
 This is a personal web page.
 
 ### Screenshots
